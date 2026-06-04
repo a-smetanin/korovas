@@ -11,14 +11,6 @@
       "default_visible": false
     },
     {
-      "id": "inference",
-      "label": "Inference",
-      "plugin": "keypoint_korovas",
-      "table": "cow_inference_result",
-      "palette": "inference",
-      "default_visible": true
-    },
-    {
       "id": "depth",
       "label": "Глубина",
       "plugin": "depth_map",
