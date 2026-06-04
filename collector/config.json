@@ -121,7 +121,7 @@
         "field_id": "scan_time",
         "type": "datetime",
         "title": "Время скана",
-        "instructions": "Подставляется с устройства; при необходимости измените.",
+        "instructions": "Подставляется с устройства; при необходимости измените",
         "validation": {
           "required": true
         }
